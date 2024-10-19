@@ -10,3 +10,5 @@ A diferencia del **fixed mindset** (mentalidad fija), que supone que las capacid
 - Acepta los desafíos como oportunidades.
 - Aprende de los errores y fracasos.
 - Acepta feedback.
+
+*[Readme](./README.md)*
