@@ -10,4 +10,4 @@ Especialista en Marketing Digital y Publicidad con 10 años de experiencia en la
 
 ## Mis Notas de Lectura:
 
-- [mindset](./mindset.md)
+- [mindset](./Mindset.md)
