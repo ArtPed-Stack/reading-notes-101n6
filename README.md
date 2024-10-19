@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: lightgray;
+  }
+</style>
+
 <div style="text-align: center;">
   <h1> Pedro Herrada </h1>
  <img src="https://github.com/user-attachments/assets/540c5e6c-dbb5-48e5-b415-392047951ecd" alt="Foto Perfil Correo" width="200"/>
