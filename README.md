@@ -1,6 +1,7 @@
+
 <style>
   body {
-    background-color: lightgray;
+    background-color: ;
   }
 </style>
 
@@ -17,4 +18,20 @@ Especialista en Marketing Digital y Publicidad con 10 años de experiencia en la
 
 ## Mis Notas de Lectura:
 
+- Tabla de contenido
+
 - [mindset](./Mindset.md)
+
+- Notas de la lectura del Code 101
+  - [read-01](./101/read-01.md)
+  - [read-02](./101/read-02.md)
+  - [read-03](./101/read-03.md)
+  - [read-04](./101/read-04.md)
+  - [read-05](./101/read-05.md)
+  - [read-06](./101/read-06.md)
+  - [read-07](./101/read-07.md)
+  - [read-08](./101/read-08.md)
+  - [read-09](./101/read-09.md)
+  - [read-10](./101/read-10.md)
+  - [read-11](./101/read-11.md)
+
